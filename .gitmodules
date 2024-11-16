@@ -1,0 +1,3 @@
+[submodule "DOPE-Engine/vendor/spdlog"]
+	path = DOPE-Engine/vendor/spdlog
+	url = https://github.com/gabime/spdlog

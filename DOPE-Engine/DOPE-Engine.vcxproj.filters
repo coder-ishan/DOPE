@@ -27,9 +27,15 @@
     <ClInclude Include="src\Dope\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\Dope\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Dope\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Dope\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
